@@ -7,7 +7,7 @@ end
 def summon_captain_planet(veggies)
     veggies.collect do |name|
      {name.upcase + '!'}
-    end
+  end
 end
 
 
