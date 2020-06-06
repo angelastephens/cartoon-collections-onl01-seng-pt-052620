@@ -10,8 +10,7 @@ end
 
 
 def long_planeteer_calls(calls_long)
-    calls_long.any? do |call|
-      call.length > 4
+    calls_long.any? { |call| call.length > 4}
   end
 end
   
