@@ -9,11 +9,9 @@ def summon_captain_planet(veggies)
 end
 
 
-def long_planeteer_calls(veggies)
-    veggies.upcase do |name|
-      veggies.upca
+def long_planeteer_calls(calls_long)
+    
   end
-veggies
 end
   
 def find_the_cheese# code an argument here
