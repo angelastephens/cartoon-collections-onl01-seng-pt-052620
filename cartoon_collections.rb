@@ -6,9 +6,8 @@ end
 
 def summon_captain_planet(veggies)
     veggies.collect do |name|
-     {name.upcase + "!"}
+     {name.capitalize + "!"}
   end
-  veggies
 end
 
 
