@@ -10,7 +10,7 @@ end
 
 
 def long_planeteer_calls(calls_long)
-    if 
+    calls_long.any?
   end
 end
   
